@@ -6,7 +6,8 @@
         "mocharc",
         "sudoo",
         "triforce",
-        "tshook"
+        "tshook",
+        "xenocount"
     ],
     "eslint.options": {
         "configFile": "./typescript/.eslintrc.json"
